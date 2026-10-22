@@ -1,4 +1,4 @@
-# Assistant Routier#
+# Assistant Routier
 ### Détection de panneaux routiers avec l'intelligence artificielle
 
 ## 📌 Présentation du projet
